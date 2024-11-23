@@ -9,13 +9,13 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~aqQXlZyK#xvTQQoQXM-901J8PKZVMcNRGJJyzJ-vzjxzT0Y7AUPM",
       "required": true
     },
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "94713457207"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
